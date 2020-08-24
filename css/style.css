@@ -660,6 +660,7 @@ textarea {
 .field-form .input-form:focus-within {
   border: 1px solid var(--accent-color);
   border-radius: 4px;
+  outline: 0px;
 }
 
 .field-form .textarea-form {
@@ -671,6 +672,7 @@ textarea {
 .field-form .textarea-form:focus-within {
   border: 1px solid var(--accent-color);
   border-radius: 4px;
+  outline: 0px;
 }
 
 .field-form .textarea-form::placeholder {
